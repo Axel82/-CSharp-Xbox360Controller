@@ -1,0 +1,8 @@
+N:\Habeillon Axel\Controller_360\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.csprojResolveAssemblyReference.cache
+N:\Habeillon Axel\Controller_360\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.XnaInputForm.resources
+N:\Habeillon Axel\Controller_360\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.Properties.Resources.resources
+N:\Habeillon Axel\Controller_360\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.csproj.GenerateResource.Cache
+N:\Habeillon Axel\Controller_360\Xbox360Controller\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.XnaInputForm.resources
+N:\Habeillon Axel\Controller_360\Xbox360Controller\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.Properties.Resources.resources
+N:\Habeillon Axel\Controller_360\Xbox360Controller\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.csproj.GenerateResource.cache
+N:\Habeillon Axel\Controller_360\Xbox360Controller\J2i.Net.XnaXboxController\obj\Debug\J2i.Net.XnaXboxController.csproj.CoreCompileInputs.cache
